@@ -1,0 +1,17 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Sat Mar 09 11:25:36 CST 2013
+https\://oss.sonatype.org/content/repositories/snapshots/.error=
+http\://oss.sonatype.org/content/repositories/releases/.lastUpdated=1362799511854
+default-http\://repo1.maven.org/maven2/.lastUpdated=1362799343308
+http\://repository.springsource.com/maven/bundles/release/.error=
+http\://repository.atlassian.com/maven2/.lastUpdated=1362799533442
+http\://oss.sonatype.org/content/repositories/releases/.error=
+http\://repository.springsource.com/maven/bundles/external/.error=
+https\://oss.sonatype.org/content/repositories/snapshots/.lastUpdated=1362799514224
+http\://repo1.maven.org/maven2/.error=
+http\://repository.springsource.com/maven/bundles/external/.lastUpdated=1362799517358
+http\://repo1.maven.org/maven2/.lastUpdated=1362799536464
+http\://download.eclipse.org/rt/eclipselink/maven.repo/.lastUpdated=1362799534845
+http\://download.eclipse.org/rt/eclipselink/maven.repo/.error=
+http\://repository.springsource.com/maven/bundles/release/.lastUpdated=1362799515689
+http\://repository.atlassian.com/maven2/.error=
